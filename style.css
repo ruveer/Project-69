@@ -78,9 +78,11 @@ body {
 .achievments_text span {
     color: #ff7700;
 }
-
-#field {
-    width="500%";
+#auditorium{
+    width: 500px;
+}
+#field{
+    width=500px;
 }
 
 p {
